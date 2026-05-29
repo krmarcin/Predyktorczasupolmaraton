@@ -1,0 +1,12 @@
+{
+  "timestamp": "20260413_161618",
+  "features": [
+    "plec",
+    "wiek",
+    "tempo_5km"
+  ],
+  "mae_s": 303.31,
+  "r2": 0.8821,
+  "n_samples": 17908,
+  "model_type": "GradientBoostingRegressor"
+}
