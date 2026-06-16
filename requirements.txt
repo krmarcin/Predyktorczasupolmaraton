@@ -7,6 +7,6 @@ pandas
 numpy
 joblib
 python-dotenv
-matplotlib
 seaborn
 pycaret
+instructor
