@@ -9,3 +9,4 @@ joblib
 python-dotenv
 matplotlib
 seaborn
+pycaret
